@@ -1,0 +1,20 @@
+1. ¿Qué es Git?
+Git es un programa que instalo en mi computador y que me permite llevar un control de los cambios que le hago a mis archivos de código con el tiempo. Es como una máquina del tiempo para mi proyecto: cada vez que hago un cambio importante, puedo guardar una especie de "foto" de cómo quedó todo en ese momento, y si algo sale mal más adelante, puedo volver a esa versión anterior sin perder mi trabajo.
+2. ¿Qué es GitHub?
+GitHub es una página web donde puedo subir y guardar en internet los proyectos que trabajo con Git. Mientras que Git funciona en mi computador, GitHub me sirve para tener esos proyectos disponibles en la nube, mostrarlos a otras personas, trabajar en equipo y llevar un respaldo por si mi computador se daña o pierdo la información.
+3. ¿Cuál es la diferencia entre Git y GitHub?
+Git es la herramienta (el programa) que se usa localmente para controlar las versiones de un proyecto, mientras que GitHub es una plataforma en línea que utiliza Git por detrás para alojar esos proyectos en internet. Podría usar Git sin necesidad de GitHub, guardando todo solo en mi computador, pero GitHub me da un lugar central donde publicar, compartir y colaborar en esos proyectos con otras personas.
+4. ¿Qué es un repositorio?
+Un repositorio es la carpeta principal de un proyecto donde quedan guardados todos los archivos, las carpetas y todo el historial de cambios que se le han hecho. Es como la "casa" del proyecto: ahí vive el código, la documentación y el registro de todo lo que se ha modificado desde que se creó.
+5. ¿Qué es un commit?
+Un commit es el registro de un cambio que hago en mi proyecto, acompañado de un mensaje corto que explica qué fue lo que modifiqué. Cada vez que hago un commit, estoy guardando una versión específica de mis archivos, de manera que después puedo revisar el historial y saber exactamente qué cambió, cuándo y por qué.
+6. ¿Qué es un branch o rama?
+Un branch es una línea de trabajo separada dentro del mismo repositorio. Me permite, por ejemplo, probar una función nueva o hacer cambios arriesgados sin afectar la versión principal del proyecto (que normalmente se llama "main"). Si el cambio funciona bien, puedo unir esa rama con la principal; si no funciona, simplemente la descarto sin haber dañado nada.
+7. ¿Qué es un README?
+El README es un archivo de texto (normalmente README.md) que se coloca en la raíz del repositorio y que sirve como presentación del proyecto. Ahí explico de qué se trata el proyecto, cómo se instala o se ejecuta, qué tecnologías usé y cualquier otra información que le ayude a otra persona a entender rápidamente de qué se trata mi trabajo.
+8. ¿Qué es un repositorio público?
+Es un repositorio que cualquier persona en internet puede ver, aunque no tenga cuenta o no esté relacionada con el proyecto. Sirve mucho para mostrar trabajos en un portafolio, porque cualquiera puede entrar a revisar el código.
+9. ¿Qué es un repositorio privado?
+Es un repositorio que solo pueden ver las personas que yo autorice, es decir, no queda visible para el público en general. Se usa cuando el proyecto tiene información sensible, está en una etapa muy temprana o simplemente no quiero que todo el mundo lo vea todavía.
+10. ¿Por qué es importante utilizar control de versiones en un proyecto de software?
+Porque permite llevar un historial ordenado de todos los cambios hechos a un proyecto, lo cual facilita corregir errores, volver a versiones anteriores si algo se daña, y trabajar en equipo sin que los cambios de una persona borren o choquen con los de otra. Además, ayuda a documentar el progreso del proyecto y a entender por qué se tomó cada decisión.
